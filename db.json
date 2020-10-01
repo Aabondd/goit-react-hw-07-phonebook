@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "name": "Alexander Bondarenko",
+      "number": "45555",
+      "id": 1
+    },
+    {
+      "name": "Юрий Татарчук",
+      "number": "454515",
+      "id": 2
+    },
+    {
+      "name": "Max Maximov",
+      "number": "7878888",
+      "id": 3
+    },
+    {
+      "name": "Svetlana Mowe",
+      "number": "5455545",
+      "id": 4
+    }
+  ]
+}
